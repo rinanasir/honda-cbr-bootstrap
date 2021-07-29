@@ -9,3 +9,17 @@
     padding: 10px;
     border-radius: 8px;
 }
+.text-color{
+    color: #E76F51;
+}
+.feature-bike img{
+    width: 288px;
+    height: 243px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.client img{
+    width: 149px;
+    height: 149px;
+}
